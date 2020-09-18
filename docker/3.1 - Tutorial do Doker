@@ -6,7 +6,7 @@ TUTORIAL DO DOCKER
 (✔) 4 - Instalando o docker no windows
 (✔) 5 - Instalando o docker no linux
 ( ) 6 - Primeiros comandos
-        - sudo docker run hello-word (testa se o docker está em execução)
+        - sudo docker run hello-world (testa se o docker está em execução)
         - verificar quais imagens está presentes na máquina (sudo docker images)
         - verificar quais containers estão em execução (sudo docker ps)
         - verificar todos os containers criados (sudo docker ps -a )
